@@ -1,24 +1,38 @@
-# README
+# Blogger
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+In this project we will create a simple blog system and learn the basics of Ruby on Rails including:
 
-Things you may want to cover:
+Models, Views, and Controllers (MVC)
+Data Structures & Relationships
+Routing
+Migrations
+Views with forms, partials, and helpers
+RESTful design
+Adding gems for extra features
 
-* Ruby version
 
-* System dependencies
+# Requirements
 
-* Configuration
+- Ruby > 2.6.6
 
-* Database creation
+## Built With
 
-* Database initialization
+- Ruby
+- VSCode
 
-* How to run the test suite
+## Author
 
-* Services (job queues, cache servers, search engines, etc.)
+👤 Shubham Raj
 
-* Deployment instructions
+- Github: [@ShubhamRaj](https://github.com/shubham14p3)
+- Linkedin: [Shubham14p3](https://www.linkedin.com/in/shubham14p3/)
 
-* ...
+## 🤝 Contributing
+
+Contributions, issues and feature requests are welcome!
+
+Feel free to check the [issues page](https://github.com/shubham14p3/Tic-Tac-Toe/issues/).
+
+## Show your support
+
+Give a ⭐️ if you like this project!
