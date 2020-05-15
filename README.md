@@ -31,7 +31,7 @@ Adding gems for extra features
 
 Contributions, issues and feature requests are welcome!
 
-Feel free to check the [issues page](https://github.com/shubham14p3/Tic-Tac-Toe/issues/).
+Feel free to check the [issues page](https://github.com/shubham14p3/railsBlogger/issues/).
 
 ## Show your support
 
